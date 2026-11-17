@@ -1,0 +1,6 @@
+node_modules/
+token-cache.json
+requests.log
+refresh.lock
+*.log
+.env
